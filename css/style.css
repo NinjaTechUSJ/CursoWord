@@ -408,15 +408,21 @@
     .plataform p {
       width: 180%;
     }
+    .plataform1 p {
+      width: 250%;
+      text-align: left;
+      
+    }
   }
 
   @media screen and (max-width: 500px){
     .equipe p {
       width: 180%;
+      text-align: center;
     }
   }
 
-@media (max-width: 500px){
+  @media (max-width: 500px){
     #event-subscription {
       flex-direction: column;
       height: auto;
