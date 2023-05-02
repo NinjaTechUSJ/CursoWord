@@ -397,14 +397,14 @@
     }
   }
 
- @media screen and (max-width: 500px){
+@media screen and (max-width: 800px){
     .produto-container{
       width: 100%;
       flex-direction: column;
     }
   }
   
-  @media screen and (max-width: 500px){
+  @media screen and (max-width: 800px){
     .plataform p {
       width: 180%;
     }
@@ -415,14 +415,14 @@
     }
   }
 
-  @media screen and (max-width: 500px){
+  @media screen and (max-width: 800px){
     .equipe p {
       width: 180%;
       text-align: center;
     }
   }
 
-  @media (max-width: 500px){
+  @media (max-width: 800px){
     #event-subscription {
       flex-direction: column;
       height: auto;
