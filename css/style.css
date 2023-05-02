@@ -397,7 +397,7 @@
     }
   }
 
-@media screen and (max-width: 800px){
+  @media screen and (max-width: 800px){
     .produto-container{
       width: 100%;
       flex-direction: column;
@@ -407,17 +407,20 @@
   @media screen and (max-width: 800px){
     .plataform p {
       width: 180%;
-      margin-left: -50px;
+      margin-left: -95px;
+      width: 300px;
     }
     .plataform1 p {
       width: 250%;
       text-align: left;
       margin-left: -70px;
+      width: 300px;
       
     }
     .h3 {
-      margin-left: -100px;
+      margin-left: -80px;
       text-align: center;
+      width: 300px;
     }
   }
 
