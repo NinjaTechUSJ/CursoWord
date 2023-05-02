@@ -407,11 +407,17 @@
   @media screen and (max-width: 800px){
     .plataform p {
       width: 180%;
+      margin-left: -50px;
     }
     .plataform1 p {
       width: 250%;
       text-align: left;
+      margin-left: -70px;
       
+    }
+    .h3 {
+      margin-left: -80px;
+      text-align: center;
     }
   }
 
@@ -419,6 +425,7 @@
     .equipe p {
       width: 180%;
       text-align: center;
+      margin-left: -50px;
     }
   }
 
