@@ -396,3 +396,29 @@
       width: 80%;
     }
   }
+
+ @media screen and (max-width: 500px){
+    .produto-container{
+      width: 100%;
+      flex-direction: column;
+    }
+  }
+  
+  @media screen and (max-width: 500px){
+    .plataform p {
+      width: 180%;
+    }
+  }
+
+  @media screen and (max-width: 500px){
+    .equipe p {
+      width: 180%;
+    }
+  }
+
+@media (max-width: 500px){
+    #event-subscription {
+      flex-direction: column;
+      height: auto;
+    }
+  }
